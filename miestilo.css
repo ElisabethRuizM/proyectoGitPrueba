@@ -14,3 +14,8 @@ div.libros
 {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+footer
+{
+  text-align: center;
+  font-size: small;
+}
